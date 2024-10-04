@@ -1,3 +1,8 @@
 # Timestamp Microservice
 
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
+This is a solution for the timestap mircroservice.  
+
+# Mount locally
+Run `npm i` in the terminal for downloading dependencies.  
+`run npm start` in the terminal for starting the project.  
+Server mounts locally on port 3000 (by default, specify one in .env file). Access by going to localhost:3000 on your browser.
